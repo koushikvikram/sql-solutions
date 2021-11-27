@@ -1,2 +1,9 @@
-# sql-solutions
-❔🗃️✔️ My Solutions to SQL problems on different websites
+# SQL Solutions
+
+[SQLZoo Solutions]()
+
+[SQLBolt Solutions]()
+
+[SelectStarSQL Solutions]()
+
+[Dataquest SQL Solutions]()
