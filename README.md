@@ -1,9 +1,9 @@
 # SQL Solutions
 
-[SQLZoo Solutions]()
+[SQLZoo Solutions](https://github.com/koushikvikram/sql-solutions/tree/main/sqlzoo-solutions)
 
-[SQLBolt Solutions]()
+[SQLBolt Solutions](https://github.com/koushikvikram/sql-solutions/tree/main/sqlbolt-solutions)
 
-[SelectStarSQL Solutions]()
+[SelectStarSQL Solutions](https://github.com/koushikvikram/sql-solutions/tree/main/selectstarsql-solutions)
 
-[Dataquest SQL Solutions]()
+[Dataquest SQL Solutions](https://github.com/koushikvikram/sql-solutions/tree/main/dataquest-sql-solutions)
